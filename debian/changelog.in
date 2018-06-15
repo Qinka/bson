@@ -1,0 +1,5 @@
+haskell-bson (0.3.2.6-distro()1) distro(); urgency=medium
+
+  * https://github.com/Qinka/bson
+
+ -- Johann Lee <me@qinka.pro>  esyscmd(`date -R')
